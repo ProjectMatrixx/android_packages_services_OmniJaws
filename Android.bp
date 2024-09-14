@@ -8,6 +8,10 @@ android_app {
     "org.apache.http.legacy",
   ],
 
+  optional_uses_libs: [
+    "org.apache.http.legacy",
+  ],
+
   srcs: [
     "app/src/main/**/*.java",
   ],
