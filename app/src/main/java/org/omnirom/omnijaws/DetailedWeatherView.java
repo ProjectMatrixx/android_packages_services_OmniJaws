@@ -29,7 +29,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.android.internal.util.crdroid.OmniJawsClient;
+import com.android.internal.util.matrixx.OmniJawsClient;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
